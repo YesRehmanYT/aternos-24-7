@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Not_a_Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Not_a_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "KindomSmp.aternos.me",
+    "port": 58436,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
